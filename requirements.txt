@@ -1,0 +1,22 @@
+# LangChain
+langchain>=0.1.0
+langchain-anthropic>=0.1.0
+langchain-core>=0.1.0
+langgraph>=0.0.40
+
+# LangSmith tracing
+langsmith>=0.1.0
+
+# PDF Processing
+pypdf>=3.17.0
+pdfplumber>=0.10.0
+reportlab>=4.0.0
+
+# MCP Server
+fastapi>=0.109.0
+uvicorn>=0.27.0
+python-multipart>=0.0.6
+
+# Utils
+python-dotenv>=1.0.0
+pydantic>=2.0.0
